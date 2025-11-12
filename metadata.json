@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Audio Transcriber",
+  "description": "A web application that transcribes audio to text using the Google Gemini API. Users can either record live audio from their microphone or upload an existing audio file.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
